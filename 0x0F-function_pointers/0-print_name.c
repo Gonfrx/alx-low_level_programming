@@ -12,3 +12,4 @@ if (!name || !f)
 return;
 f(name);
 }
+
